@@ -1,0 +1,24 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "view.json",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+<<<<<<< HEAD
+      "actor": "ADMIN",
+      "timestamp": "2024-01-09T14:28:09Z"
+    },
+    "lastModificationSignature": "5a5d33d654c29a9feffa42fae83d786ac629611ad0e979d84b445208fe398e29"
+=======
+      "actor": "external",
+      "timestamp": "2024-01-09T14:52:47Z"
+    },
+    "lastModificationSignature": "e3fcff88d9acc0d25a60e0509e46cdc6147a8e12e4978283f03f6abcbbe32d38"
+>>>>>>> f8e455c6622b2b8ff546c35400e7b98885e6b954
+  }
+}

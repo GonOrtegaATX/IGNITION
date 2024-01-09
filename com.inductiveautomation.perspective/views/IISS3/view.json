@@ -1,0 +1,175 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {},
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "PieChart"
+        },
+        "position": {
+          "height": 224,
+          "width": 106,
+          "x": 56,
+          "y": 12
+        },
+        "props": {
+          "colors": [
+            "#3366CC",
+            "#EC4B3D",
+            "#4FC86C",
+            "#00A9C6",
+            "#E69300"
+          ],
+          "data": [
+            {
+              "count": 36,
+              "flavor": "Pumpkin"
+            },
+            {
+              "count": 17,
+              "flavor": "Pecan"
+            },
+            {
+              "count": 14,
+              "flavor": "Apple"
+            },
+            {
+              "count": 10,
+              "flavor": "Sweet Potato"
+            },
+            {
+              "count": 9,
+              "flavor": "Chocolate"
+            }
+          ],
+          "title": "Favorite Pie Flavors"
+        },
+        "type": "ia.chart.pie"
+      },
+      {
+        "meta": {
+          "name": "PieChart_0"
+        },
+        "position": {
+          "height": 191,
+          "width": 178,
+          "x": 99,
+          "y": 275
+        },
+        "props": {
+          "colors": [
+            "#3366CC",
+            "#EC4B3D",
+            "#4FC86C",
+            "#00A9C6",
+            "#E69300"
+          ],
+          "data": [
+            {
+              "count": 36,
+              "flavor": "Pumpkin"
+            },
+            {
+              "count": 17,
+              "flavor": "Pecan"
+            },
+            {
+              "count": 14,
+              "flavor": "Apple"
+            },
+            {
+              "count": 10,
+              "flavor": "Sweet Potato"
+            },
+            {
+              "count": 9,
+              "flavor": "Chocolate"
+            }
+          ],
+          "title": "Favorite Pie Flavors"
+        },
+        "type": "ia.chart.pie"
+      },
+      {
+        "meta": {
+          "name": "PieChart_1"
+        },
+        "position": {
+          "height": 127,
+          "width": 401,
+          "x": 137.5,
+          "y": 539
+        },
+        "props": {
+          "colors": [
+            "#3366CC",
+            "#EC4B3D",
+            "#4FC86C",
+            "#00A9C6",
+            "#E69300"
+          ],
+          "data": [
+            {
+              "count": 36,
+              "flavor": "Pumpkin"
+            },
+            {
+              "count": 17,
+              "flavor": "Pecan"
+            },
+            {
+              "count": 14,
+              "flavor": "Apple"
+            },
+            {
+              "count": 10,
+              "flavor": "Sweet Potato"
+            },
+            {
+              "count": 9,
+              "flavor": "Chocolate"
+            }
+          ],
+          "title": "Favorite Pie Flavors"
+        },
+        "type": "ia.chart.pie"
+      },
+      {
+        "meta": {
+          "name": "Label"
+        },
+        "position": {
+          "height": 32,
+          "width": 157,
+          "x": 460,
+          "y": 57
+        },
+        "props": {
+          "text": "Esto es una prueba"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Label_0"
+        },
+        "position": {
+          "height": 32,
+          "width": 157,
+          "x": 494,
+          "y": 288
+        },
+        "props": {
+          "text": "Esto es una prueba"
+        },
+        "type": "ia.display.label"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "type": "ia.container.coord"
+  }
+}

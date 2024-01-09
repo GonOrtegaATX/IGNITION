@@ -1,0 +1,10 @@
+{
+  "pages": {
+    "/": {
+      "viewPath": "IISS"
+    }
+  },
+  "sharedDocks": {
+    "cornerPriority": "top-bottom"
+  }
+}
